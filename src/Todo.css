@@ -1,0 +1,14 @@
+.Todo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #e9f1f7;
+    border-radius: 5px;
+  }
+  
+  .Todo button {
+    margin-left: 10px;
+  }
+  

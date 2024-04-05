@@ -1,0 +1,18 @@
+.NewTodoForm {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .NewTodoForm input,
+  .NewTodoForm button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #a7bbc7;
+  }
+  
+  .NewTodoForm button {
+    background-color: #d6e6f2;
+    color: #333;
+  }
+  
